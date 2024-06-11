@@ -21,4 +21,4 @@ I'm a passionate programmer and web enthusiast based in Kenya. I'm proficient in
 
 ## GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact)](https://github.com/YourGitHubUsername)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwardsila&layout=compact)](https://github.com/edwardsila)

@@ -8,9 +8,9 @@
   </a>
 </p>
 
-## Skills
+<h2 align="center">Skills</h2>
 
-### Programming Languages
+<h3 align="center">Programming Languages</h3>
 <p align="center">
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
     <img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white" />
@@ -23,7 +23,7 @@
   </a>
 </p>
 
-### Web Technologies
+<h3 align="center">Web Technologies</h3>
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5">
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -33,7 +33,7 @@
   </a>
 </p>
 
-### Operating Systems
+<h3 align="center">Operating Systems</h3>
 <p align="center">
   <a href="https://www.linux.org/">
     <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
@@ -46,7 +46,7 @@
   </a>
 </p>
 
-## GitHub Stats
+<h2 align="center">GitHub Stats</h2>
 
 <p align="center">
   <a href="https://github.com/edwardsila">
@@ -61,7 +61,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=edwardsila" alt="GitHub Streak Stats" />
 </p>
 
-## Currently learning full stack development at:
+<h2 align="center">Currently learning full stack development at:</h2>
 <p align="center">
   <img src="https://assets.imaginablefutures.com/media/images/ALX_Logo.max-200x150.png" alt="ALX Logo" />
 </p>
+

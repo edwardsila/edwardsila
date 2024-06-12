@@ -9,12 +9,7 @@
 </p>
 
 <h2 align="center">Skills</h2>
-
-<p align="right">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Crazy Programmer" width="200"/>
-</p>
-<h3 align="left">Programming Languages</h3>
-<p align="left">
+<p align="center">
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
     <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" />
   </a>
@@ -24,20 +19,12 @@
   <a href="https://www.java.com/">
     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" />
   </a>
-</p>
-
-<h3 align="left">Web Technologies</h3>
-<p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5">
     <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />
   </a>
-</p>
-
-<h3 align="left">Operating Systems</h3>
-<p align="left">
   <a href="https://www.linux.org/">
     <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" />
   </a>
@@ -68,4 +55,3 @@
 <p align="center">
   <img src="https://assets.imaginablefutures.com/media/images/ALX_Logo.max-200x150.png" alt="ALX Logo" />
 </p>
-

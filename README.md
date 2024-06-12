@@ -10,8 +10,11 @@
 
 <h2 align="center">Skills</h2>
 
-<h3 align="center">Programming Languages</h3>
-<p align="center">
+<p align="right">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Crazy Programmer" width="200"/>
+</p>
+<h3 align="left">Programming Languages</h3>
+<p align="left">
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
     <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" />
   </a>
@@ -23,8 +26,8 @@
   </a>
 </p>
 
-<h3 align="center">Web Technologies</h3>
-<p align="center">
+<h3 align="left">Web Technologies</h3>
+<p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5">
     <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" />
   </a>
@@ -33,8 +36,8 @@
   </a>
 </p>
 
-<h3 align="center">Operating Systems</h3>
-<p align="center">
+<h3 align="left">Operating Systems</h3>
+<p align="left">
   <a href="https://www.linux.org/">
     <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" />
   </a>

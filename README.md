@@ -23,4 +23,7 @@ I'm a passionate programmer and web enthusiast based in Kenya. I'm proficient in
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwardsila&layout=compact)](https://github.com/edwardsila)
 
+## Currently learning full stack development at:
+![img](https://assets.imaginablefutures.com/media/images/ALX_Logo.max-200x150.png)
+
 

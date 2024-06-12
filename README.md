@@ -2,6 +2,11 @@
 
 I'm a passionate programmer and web enthusiast based in Kenya. I'm proficient in C, Python, and currently learning web scraping techniques.
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+
+<a href="https://www.linkedin.com/in/edward-sila-a8a262242/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="edwardsila" height="30" width="40" /></a>
+
 ## Skills
 
 [![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
@@ -21,9 +26,7 @@ I'm a passionate programmer and web enthusiast based in Kenya. I'm proficient in
 
 ## GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwardsila&layout=compact)](https://github.com/edwardsila)
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edwardsila&show_icons=true&locale=en" alt="edwardsila" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwardsila&layout=compact)](https://github.com/edwardsila) <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=edwardsila&show_icons=true&locale=en" alt="edwardsila" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edwardsila&" alt="edwardsila" /></p>
 

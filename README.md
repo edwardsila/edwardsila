@@ -13,36 +13,36 @@
 <h3 align="center">Programming Languages</h3>
 <p align="center">
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+    <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" />
   </a>
   <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
   </a>
   <a href="https://www.java.com/">
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" />
   </a>
 </p>
 
 <h3 align="center">Web Technologies</h3>
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />
   </a>
 </p>
 
 <h3 align="center">Operating Systems</h3>
 <p align="center">
   <a href="https://www.linux.org/">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" />
   </a>
   <a href="https://www.microsoft.com/en-us/windows">
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.icons8.com/color/48/000000/windows-10.png" alt="Windows" />
   </a>
   <a href="https://ubuntu.com/">
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+    <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png" alt="Ubuntu" />
   </a>
 </p>
 

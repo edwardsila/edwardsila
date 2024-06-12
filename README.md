@@ -1,6 +1,6 @@
-# Hi there, I'm Edward! 👋
-
-I'm a passionate programmer and web enthusiast based in Kenya. I'm proficient in C, Python, and currently learning web scraping techniques.
+<h1 align="center">Hi 👋, I'm Edward sila</h1>
+<h3 align="center">A Full-Stack developer from </h3>
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

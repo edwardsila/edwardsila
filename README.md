@@ -25,14 +25,23 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />
   </a>
-  <a href="https://www.linux.org/">
-    <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" />
+  <a href="https://www.javascript.com/">
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
   </a>
-  <a href="https://www.microsoft.com/en-us/windows">
-    <img src="https://img.icons8.com/color/48/000000/windows-10.png" alt="Windows" />
+  <a href="https://reactjs.org/">
+    <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" />
   </a>
-  <a href="https://ubuntu.com/">
-    <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png" alt="Ubuntu" />
+  <a href="https://nodejs.org/">
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
+  </a>
+  <a href="https://www.mongodb.com/">
+    <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
+  </a>
+  <a href="https://www.mysql.com/">
+    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" />
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
   </a>
 </p>
 

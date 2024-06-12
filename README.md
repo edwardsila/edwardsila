@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Edward sila</h1>
-<h3 align="center">A Full-Stack developer from </h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
-
+<h3 align="center">A Full-Stack developer from <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/1280px-Flag_of_Kenya.svg.png" alt="Kenyan Flag" width="30" height="20"></h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 

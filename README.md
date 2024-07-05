@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Edward Sila</h1>
 <h3 align="center">A Full-Stack developer from <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/1280px-Flag_of_Kenya.svg.png" alt="Kenyan Flag" width="30" height="20"></h3>
-
+<p align="center">
+![https://lottie.host/embed/3f1e4584-20f6-4621-b677-77eab849abb2/X6w9qCOiDx.json]
+</p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/edward-sila-a8a262242/" target="blank">

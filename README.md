@@ -51,9 +51,6 @@
 
 <p align="center">
   <a href="https://github.com/edwardsila">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwardsila&layout=compact" alt="Top Languages" />
-  </a>
-  <a href="https://github.com/edwardsila">
     <img src="https://github-readme-stats.vercel.app/api?username=edwardsila&show_icons=true&locale=en" alt="GitHub Stats" />
   </a>
 </p>

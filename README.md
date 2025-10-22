@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Edward Sila</h1>
 <h3 align="center">A Full-Stack developer from <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/1280px-Flag_of_Kenya.svg.png" alt="Kenyan Flag" width="30" height="20"></h3>
-<p align="center">
-<img src="https://lottie.host/embed/3f1e4584-20f6-4621-b677-77eab849abb2/X6w9qCOiDx.json" alt="Lottie Animation" width="200" height="200">
-</p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/edward-sila-a8a262242/" target="blank">
@@ -57,9 +54,4 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=edwardsila" alt="GitHub Streak Stats" />
-</p>
-
-<h2 align="center">Currently learning full stack development at:</h2>
-<p align="center">
-  <img src="https://assets.imaginablefutures.com/media/images/ALX_Logo.max-200x150.png" alt="ALX Logo" />
 </p>

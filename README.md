@@ -15,6 +15,11 @@
   <img src="assets/header.svg" alt="Edward Sila - header" width="820" />
 </p>
 
+<!-- Matrix rain effect: large centered GIF to create the falling code effect -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Matrix rain" width="920" />
+</p>
+
 <h2 align="center">About</h2>
 <p></p>
 <p align="center" style="font-size:1.05em"><strong>Hands-on penetration tester who thinks like attackers to build stronger defenses.</strong></p>
@@ -36,7 +41,3 @@
 <p align="center"><em>Ethical testing • Responsible disclosure • Always with permission</em></p>
 
 ---
-
-<p align="center">
-  <small>Want a stronger visual header (Ubuntu font or SVG banner)? I can generate an SVG banner and add it as `assets/header.svg` — say the word and I’ll create it.</small>
-</p>

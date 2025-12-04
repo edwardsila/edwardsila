@@ -1,23 +1,49 @@
-<h1 align="center">🟢 Edward Sila — Cybersecurity Enthusiast</h1>
+<h1 align="center">🟢 Edward Sila</h1>
 
 <p align="center">
-  <img alt="matrix-rain" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="720" />
+  <!-- Professional badges -->
+  <a href="https://www.linkedin.com/in/edward-sila-a8a262242/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:edward@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/edwardsila" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
-<p align="center"><strong>About Me:</strong> I'm Edward — a hands-on penetration tester who thinks like an attacker to build better defenses.</p>
+<div align="center">
+<pre style="display:inline-block; text-align:center;">
+  ____  _  _  _   _  ____  _     _     _      
+ |  _ \| || || | | |/ ___|| |   / \   | |     
+ | | | | || || | | |\___ \| |  / _ \  | |     
+ | |_| |__   _| |_| | ___) | |_/ ___ \ | |___  
+ |____/   |_|  \___/ |____/|_____/   \_\|_____| 
+</pre>
+</div>
+
+<h2 align="center">About</h2>
+<p align="center" style="font-size:1.05em"><strong>Hands-on penetration tester who thinks like attackers to build stronger defenses.</strong></p>
 
 <p align="center">
   <!-- Horizontal, small colored icons for core skills/tools -->
-  <img src="https://img.icons8.com/color/48/000000/linux--v1.png" alt="Linux" width="32" height="32"/>
-  <img src="https://img.icons8.com/color/48/000000/console.png" alt="Bash" width="32" height="32"/>
-  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="32" height="32"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="32" height="32"/>
-  <img src="https://img.icons8.com/color/48/000000/nmap.png" alt="Nmap" width="32" height="32"/>
-  <img src="https://img.icons8.com/color/48/000000/search.png" alt="Gobuster" width="32" height="32"/>
-  <img src="https://img.icons8.com/color/48/000000/burp-suite.png" alt="Burp" width="32" height="32"/>
-  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="32" height="32"/>
+  <img src="https://img.icons8.com/color/48/000000/linux--v1.png" alt="Linux" width="36" height="36"/>
+  <img src="https://img.icons8.com/color/48/000000/console.png" alt="Bash" width="36" height="36"/>
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="36" height="36"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="36" height="36"/>
+  <img src="https://img.icons8.com/color/48/000000/nmap.png" alt="Nmap" width="36" height="36"/>
+  <img src="https://img.icons8.com/color/48/000000/search.png" alt="Gobuster" width="36" height="36"/>
+  <img src="https://img.icons8.com/color/48/000000/burp-suite.png" alt="Burp" width="36" height="36"/>
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="36" height="36"/>
 </p>
 
-<p align="center">`nmap` &bull; `gobuster` &bull; `Burp Suite` &bull; `git` &bull; `Python` &bull; `Bash`</p>
+<p align="center"><code>nmap</code> &middot; <code>gobuster</code> &middot; <code>Burp Suite</code> &middot; <code>git</code> &middot; <code>Python</code> &middot; <code>Bash</code></p>
 
-<p align="center">Ethical testing • Responsible disclosure • Always with permission</p>
+<p align="center"><em>Ethical testing • Responsible disclosure • Always with permission</em></p>
+
+---
+
+<p align="center">
+  <small>Want a stronger visual header (Ubuntu font or SVG banner)? I can generate an SVG banner and add it as `assets/header.svg` — say the word and I’ll create it.</small>
+</p>

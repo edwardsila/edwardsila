@@ -13,15 +13,9 @@
   </a>
 </p>
 
-<div align="center">
-<pre style="display:inline-block; text-align:center;">
-  ____  _  _  _   _  ____  _     _     _      
- |  _ \| || || | | |/ ___|| |   / \   | |     
- | | | | || || | | |\___ \| |  / _ \  | |     
- | |_| |__   _| |_| | ___) | |_/ ___ \ | |___  
- |____/   |_|  \___/ |____/|_____/   \_\|_____| 
-</pre>
-</div>
+<p align="center">
+  <img src="assets/header.svg" alt="Edward Sila - header" width="820" />
+</p>
 
 <h2 align="center">About</h2>
 <p align="center" style="font-size:1.05em"><strong>Hands-on penetration tester who thinks like attackers to build stronger defenses.</strong></p>

@@ -1,5 +1,3 @@
-<h1 align="center">🟢 Edward Sila</h1>
-
 <p align="center">
   <!-- Professional badges -->
   <a href="https://www.linkedin.com/in/edward-sila-a8a262242/" target="_blank">
@@ -18,18 +16,19 @@
 </p>
 
 <h2 align="center">About</h2>
+<p></p>
 <p align="center" style="font-size:1.05em"><strong>Hands-on penetration tester who thinks like attackers to build stronger defenses.</strong></p>
 
 <p align="center">
   <!-- Horizontal, small colored icons for core skills/tools -->
-  <img src="https://img.icons8.com/color/48/000000/linux--v1.png" alt="Linux" width="36" height="36"/>
-  <img src="https://img.icons8.com/color/48/000000/console.png" alt="Bash" width="36" height="36"/>
-  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="36" height="36"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="36" height="36"/>
-  <img src="https://img.icons8.com/color/48/000000/nmap.png" alt="Nmap" width="36" height="36"/>
-  <img src="https://img.icons8.com/color/48/000000/search.png" alt="Gobuster" width="36" height="36"/>
-  <img src="https://img.icons8.com/color/48/000000/burp-suite.png" alt="Burp" width="36" height="36"/>
-  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="36" height="36"/>
+  <img src="https://img.icons8.com/color/48/000000/linux--v1.png" alt="Linux" width="56" height="56"/>
+  <img src="https://img.icons8.com/color/48/000000/console.png" alt="Bash" width="56" height="56"/>
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="56" height="56"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="56" height="56"/>
+  <img src="https://img.icons8.com/color/48/000000/nmap.png" alt="Nmap" width="56" height="56"/>
+  <img src="https://img.icons8.com/color/48/000000/search.png" alt="Gobuster" width="56" height="56"/>
+  <img src="https://img.icons8.com/color/48/000000/burp-suite.png" alt="Burp" width="56" height="56"/>
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="56" height="56"/>
 </p>
 
 <p align="center"><code>nmap</code> &middot; <code>gobuster</code> &middot; <code>Burp Suite</code> &middot; <code>git</code> &middot; <code>Python</code> &middot; <code>Bash</code></p>
